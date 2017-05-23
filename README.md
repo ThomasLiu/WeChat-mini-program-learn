@@ -1,5 +1,6 @@
 # WeChat-mini-program-learn
 WeChat mini program learn
+* [官方入门教程](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 
 
 
